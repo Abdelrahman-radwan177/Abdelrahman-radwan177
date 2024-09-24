@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abdoradwan83847742" target="blank"><img src="https://img.shields.io/twitter/follow/@abdoradwan83847742?logo=twitter&style=for-the-badge" alt="@abdoradwan83847742" /></a> </p>
 
-- 📒 I’m currently learning **Embedded systems**
+- 📒 I’m currently learning **Cyber Securtiy**
 
 - 👀 I’m interested in **problem solving**
 
