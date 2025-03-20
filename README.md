@@ -9,7 +9,7 @@
 
 - 📒 I’m currently learning **Cyber Securtiy**
 
-- 👀 I’m interested in **problem solving**
+- 👀 I’m interested in **problem solving & CTF**
 
 - 📫 How to reach me **abdoradwan045@gmail.com**
 
